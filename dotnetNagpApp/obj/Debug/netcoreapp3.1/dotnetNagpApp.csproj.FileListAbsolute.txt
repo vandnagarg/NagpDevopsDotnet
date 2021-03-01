@@ -1,0 +1,10 @@
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\bin\Debug\netcoreapp3.1\dotnetNagpApp.exe
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\dotnetNagpApp.csprojAssemblyReference.cache
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\staticwebassets\dotnetNagpApp.StaticWebAssets.Manifest.cache
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\staticwebassets\dotnetNagpApp.StaticWebAssets.xml
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\dotnetNagpApp.AssemblyInfoInputs.cache
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\dotnetNagpApp.AssemblyInfo.cs
+D:\nagp\2nd Nagp test\devops\dotnetNagpApp\dotnetNagpApp\obj\Debug\netcoreapp3.1\dotnetNagpApp.RazorTargetAssemblyInfo.cache
